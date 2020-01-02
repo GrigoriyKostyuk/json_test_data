@@ -1,9 +1,56 @@
-[{
-    "titel": "Erste Nachricht",
-    "inhalt": "nachricht inhalt 1"
+[
+  {
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
   },
   {
-    "titel": "Zweite Nachricht",
-    "inhalt": "nachricht inhalt 2"
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
+  },
+  {
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
+  },
+  {
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
+  },
+  {
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
+  },
+  {
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
+  },
+  {
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
+  },
+  {
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
+  },
+  {
+    "name": "Muster",
+    "inhalt": "awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdawddddddddddddddddddddddddddddddddddddddddddasdasdwadsad",
+    "datum": "22.12.1990",
+    "adresse": "Hannover, am banane 3, 30300"
   }
-  ]
+]
