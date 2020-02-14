@@ -1,404 +1,46 @@
 [
-  {
-    "id": 1,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 2,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 3,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 4,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 5,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 6,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 7,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 8,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 9,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 10,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 11,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 12,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 13,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 14,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 15,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 16,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 17,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 18,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 19,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 20,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 21,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 22,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 23,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 24,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 25,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 26,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 27,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 28,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 29,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 30,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 111,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 221,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 331,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 441,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 551,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 661,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 771,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 7881,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 881,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 881,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 991,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 100,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 122,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 133,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 144,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 166,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 26123,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 27123,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 28234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 29234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 30234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 111234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 221234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 331234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 441234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 551,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 661234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 771234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 7881234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 881234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 881234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 991234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 100234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 122234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 133234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 144234,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "id": 12346,
-    "mitgliedName": "Mustermann",
-    "mitgliedVorname": "Muster",
-    "inhalt": "nachricht inhalt 1"
-  }
+    {
+        "id": 5,
+        "inhalt": "gebet2 Inhalt",
+        "erstelldatum": "2020-02-12",
+        "mitglied": {
+            "id": 4,
+            "name": "Rustermann",
+            "vorname": "bananer",
+            "aktiv": true
+        }
+    },
+    {
+        "id": 2,
+        "inhalt": "gebet2 Inhalt",
+        "erstelldatum": "2020-02-12",
+        "mitglied": {
+            "id": 1,
+            "name": "Mostermann",
+            "vorname": "Birner",
+            "aktiv": false
+        }
+    },
+    {
+        "id": 3,
+        "inhalt": "gebet2 Inhalt",
+        "erstelldatum": "2020-02-12",
+        "mitglied": {
+            "id": 3,
+            "name": "Sustermann",
+            "vorname": "bananer",
+            "aktiv": true
+        }
+    },
+    {
+        "id": 4,
+        "inhalt": "gebet2 Inhalt",
+        "erstelldatum": "2020-02-12",
+        "mitglied": {
+            "id": 4,
+            "name": "Rustermann",
+            "vorname": "bananer",
+            "aktiv": true
+        }
+    }
 ]
