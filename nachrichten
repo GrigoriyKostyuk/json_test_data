@@ -1,16 +1,50 @@
-[{
-    "titel": "Erste Nachricht",
-    "inhalt": "nachricht inhalt 1"
-  },
-  {
-    "titel": "Zweite Nachricht",
-    "inhalt": "nachricht inhalt 2"
-  },
-  {
-    "titel": "Dritte Nachricht",
-    "inhalt": "nachricht inhalt 3"
-  },
-  {
-    "titel": "Vierte Nachricht",
-    "inhalt": "nachricht inhalt 4"
-  }]
+[
+    {
+        "id": 1,
+        "titel": "Erste Nachricht",
+        "inhalt": "nachricht inhalt 1",
+        "datum": "2020-02-12",
+        "mitglied": {
+            "id": 1,
+            "name": "Mostermann",
+            "vorname": "Birner",
+            "aktiv": false
+        }
+    },
+    {
+        "id": 2,
+        "titel": "Erste Nachricht",
+        "inhalt": "nachricht inhalt 1",
+        "datum": "2020-02-12",
+        "mitglied": {
+            "id": 2,
+            "name": "Austermann",
+            "vorname": "bananer",
+            "aktiv": true
+        }
+    },
+    {
+        "id": 3,
+        "titel": "Zweite Nachricht",
+        "inhalt": "nachricht inhalt 1",
+        "datum": "2020-02-12",
+        "mitglied": {
+            "id": 2,
+            "name": "Austermann",
+            "vorname": "bananer",
+            "aktiv": true
+        }
+    },
+    {
+        "id": 4,
+        "titel": "Zweite Nachricht",
+        "inhalt": "nachricht inhalt 1",
+        "datum": "2020-02-12",
+        "mitglied": {
+            "id": 3,
+            "name": "Sustermann",
+            "vorname": "bananer",
+            "aktiv": true
+        }
+    }
+]
